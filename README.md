@@ -4,7 +4,7 @@
 - 💞️ I like programming, piano and dogs
 - 📫 How to reach me: verbruggheluka0@gmail.com
 
-Don't be a stranger, reach it with any questions, collaborations or just to say hi! I won't bite.
+Don't be a stranger, reach out with any questions, collaborations, feedback, ... or just to say hi! I won't bite.
 
 <!---
 professorVerbrugghe/professorVerbrugghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
