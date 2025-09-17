@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @LukaVerbrugghe, I'm a student from Bruges 🇧🇪
-- 👀 I’m interested in desktop and game development
-- 🌱 I’m currently working on software for real estate companies
-- 💞️ I like programming, piano and dogs
+- 👋 Hi, I’m @LukaVerbrugghe, I study Applied Computer Sciences in Belgium
+- 🌱 Currently focussing on my education
+- 💞️ I like programming (duh), piano and dogs
 - 📫 How to reach me: verbruggheluka0@gmail.com
 
 Don't be a stranger, reach out with any questions, collaborations, feedback, ... or just to say hi!
